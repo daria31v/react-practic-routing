@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/react-practic-routing/static/css/main.7acaea2f.css",
-    "main.js": "/react-practic-routing/static/js/main.07d3183d.js",
+    "main.css": "/react-practic-routing/static/css/main.afbf81f0.css",
+    "main.js": "/react-practic-routing/static/js/main.35ea88be.js",
+    "static/js/175.0184f867.chunk.js": "/react-practic-routing/static/js/175.0184f867.chunk.js",
+    "static/js/415.71aeb65c.chunk.js": "/react-practic-routing/static/js/415.71aeb65c.chunk.js",
+    "static/js/199.cd397395.chunk.js": "/react-practic-routing/static/js/199.cd397395.chunk.js",
+    "static/js/322.893b3154.chunk.js": "/react-practic-routing/static/js/322.893b3154.chunk.js",
+    "static/js/651.9da32e40.chunk.js": "/react-practic-routing/static/js/651.9da32e40.chunk.js",
+    "static/js/229.94b85769.chunk.js": "/react-practic-routing/static/js/229.94b85769.chunk.js",
+    "static/js/681.f256db8c.chunk.js": "/react-practic-routing/static/js/681.f256db8c.chunk.js",
+    "static/js/805.6ce91842.chunk.js": "/react-practic-routing/static/js/805.6ce91842.chunk.js",
+    "static/js/128.f09c285e.chunk.js": "/react-practic-routing/static/js/128.f09c285e.chunk.js",
     "index.html": "/react-practic-routing/index.html",
-    "main.7acaea2f.css.map": "/react-practic-routing/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-practic-routing/static/js/main.07d3183d.js.map"
+    "main.afbf81f0.css.map": "/react-practic-routing/static/css/main.afbf81f0.css.map",
+    "main.35ea88be.js.map": "/react-practic-routing/static/js/main.35ea88be.js.map",
+    "175.0184f867.chunk.js.map": "/react-practic-routing/static/js/175.0184f867.chunk.js.map",
+    "415.71aeb65c.chunk.js.map": "/react-practic-routing/static/js/415.71aeb65c.chunk.js.map",
+    "199.cd397395.chunk.js.map": "/react-practic-routing/static/js/199.cd397395.chunk.js.map",
+    "322.893b3154.chunk.js.map": "/react-practic-routing/static/js/322.893b3154.chunk.js.map",
+    "651.9da32e40.chunk.js.map": "/react-practic-routing/static/js/651.9da32e40.chunk.js.map",
+    "229.94b85769.chunk.js.map": "/react-practic-routing/static/js/229.94b85769.chunk.js.map",
+    "681.f256db8c.chunk.js.map": "/react-practic-routing/static/js/681.f256db8c.chunk.js.map",
+    "805.6ce91842.chunk.js.map": "/react-practic-routing/static/js/805.6ce91842.chunk.js.map",
+    "128.f09c285e.chunk.js.map": "/react-practic-routing/static/js/128.f09c285e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.afbf81f0.css",
+    "static/js/main.35ea88be.js"
   ]
 }
