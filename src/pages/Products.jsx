@@ -38,8 +38,9 @@ import { useSearchParams } from "react-router-dom";
 import { ProductList } from "../components/ProductList";
 import { SearchBox } from "../components/SearchBox";
 import { getProducts } from "../fakeAPI";
+import {Link} from '../components/App.styled'
 
-export const Products = () => {
+ const Products = () => {
   const products = getProducts();
   const [searchParams, setSearchParams] = useSearchParams();
   const productName = searchParams.get("name") ?? "";
@@ -55,12 +56,16 @@ export const Products = () => {
 
   return (
     <main>
+      <Link to="/products/h-1" state={{ from: "/dashboard?name=hoodie" }}>
+      Navigate to product h-1
+    </Link>
       <SearchBox value={productName} onChange={updateQueryString} />
       <ProductList products={visibleProducts} />
     </main>
   );
 };
 
+export default Products;
 
 // const [searchParams] = useSearchParams();
 

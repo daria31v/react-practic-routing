@@ -50,6 +50,7 @@ const Products = lazy(() => import("../pages/Products"));
 const Mission = lazy(() => import("./Mission"));
 const Team = lazy(() => import("./Team"));
 const Reviews = lazy(() => import("./Reviews"));
+const NotFound = lazy(() => import("../pages/NotFound"));
 
 export const App = () => {
   return (
@@ -63,6 +64,7 @@ export const App = () => {
         </Route>
         <Route path="products" element={<Products />} />
         <Route path="products/:id" element={<ProductDetails />} />
+        <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
   );

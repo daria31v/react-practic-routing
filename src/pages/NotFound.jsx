@@ -3,3 +3,5 @@ export const NotFound = () => {
         <h1>This not nothing!</h1>
     )
 }
+
+export default NotFound;
